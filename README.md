@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .My zeal to be the best asistance for you is logically sentimental.
 - My motto:Do not make law for yourself
-<!---
+project yet to be upload:A banking ATM ,Student_optimizer app,zero-internet , world application of arduino kit and many more
 mcadorey/mcadorey is all younwant in your company,organisation✨ specially because "This my life I did'nt choose ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+learn to Code along with me .
